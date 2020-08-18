@@ -1,0 +1,7 @@
+include ':map_google'
+include ':map_tencent'
+include ':map_amp'
+include ':map_baidu'
+include ':map_client'
+include ':app'
+rootProject.name = "PlatformCompat-Maps"
